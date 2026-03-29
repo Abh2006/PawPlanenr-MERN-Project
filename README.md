@@ -1,4 +1,4 @@
-# PawPlanner 🐾
+# PawPlanner
 ### Dog Daily Routine Management System
 #### Built with the MERN Stack
 
